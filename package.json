@@ -1,0 +1,19 @@
+{
+  "name": "personal-project-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpatterson31/personal-project-server.git"
+  },
+  "author": "audrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpatterson31/personal-project-server/issues"
+  },
+  "homepage": "https://github.com/arpatterson31/personal-project-server#readme"
+}
